@@ -1,0 +1,11 @@
+/* Reset básico para eliminar márgenes y padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    height: 100%; /* Asegura que ocupen toda la altura */
+    background-color: #0f172a; /* Ajusta al color del fondo si es necesario */
+  }
